@@ -11,7 +11,7 @@ body {
 }
 
 .cover-pic {
-    max-width: 100%;
+        max-width: -webkit-fill-available;
 }
 
 /*Electronics-devices*/
